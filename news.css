@@ -1,0 +1,116 @@
+.isikonten{
+	background-color: transparent;
+	width: 90%;
+	height: 150px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+.gambar{
+	float: left;
+	height: 140px;
+	width: 150px;
+	margin-right: 5px;
+	margin-top: 3px;
+	padding: 1px;
+	border: 1px solid #dddddd;
+}
+.isikonten h2{
+	font-size: 20px;
+	font-weight: bold;
+	color: #f58787;
+	margin-top: 4px;
+	margin-bottom: 3px;
+}
+.isikonten a{
+	text-decoration: none;
+}
+.isikonten a:hover{
+	color: yellow;
+}
+#konten{
+	padding: 5px;
+	width: 70%;
+	height: auto;
+	background-color: #d4d2d2;
+	position: relative;
+	margin-top: 5px;
+}
+#sidebar{
+	padding: 5px;
+	width: 25%;
+	background-color: transparent;
+	position: relative;
+	float: right;
+	/*garis putus putus*/
+	border-style: dotted;
+	border-width: 1px;
+}
+.kotak{
+	width: 99%;
+	backgorund-bottom:5px;
+	background:#ffffff;
+	border-top: 1px solid #dfdfdf;
+	border-left: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	border-right:1px solid #dfdfdf;
+	font-size: 100%;
+	margin: 0px 0px 5px 0px;
+}
+.foto{
+	width: 99%;
+	height: 350px;
+}
+.judul{
+	background:#d74006;
+	padding: 5px 10px 5px 10px;
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+.kotak ul{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	list-style-type: none;
+}
+.kotak li{
+	padding: 0px 0px 0px 0px;
+	background-position: left;
+	background-repeat: no-repeat;
+	color: transparent;
+}
+.kotak li a{
+	color: black;
+	border-bottom: 1px dotted #cccccc;
+	text-decoration:none;
+	display: block;
+	margin-bottom: 5px;
+	padding: 4px 5px 3px 10px; 
+}
+.kotak li a:hover{
+	color: blue;
+}
+.isikonten1 h2{
+	text-align: center;
+	color: maroon;
+	font-size: 20px;
+	font-weight: bold;
+}
+.isikonten1{
+	background-color: transparent;
+	width: 90%;
+	height: auto;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+.gambar1{
+	width: 230px;
+	height: 250px;
+	float: left;
+	margin: 10px 5px 5px 10px;
+}
+.isikonten1 p{
+	text-align: justify;
+}

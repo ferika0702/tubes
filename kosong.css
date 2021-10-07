@@ -1,0 +1,18 @@
+.info{
+	padding: 50px;
+	margin-bottom: 30px;
+	background-color: #f58787;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.info h1{
+	padding: 5px;
+	text-align: center;
+	background-color: red;
+}
+.info p{
+	padding: 5px;
+	text-align: justify;
+	background-color: grey;
+	margin-right: 30%;
+}

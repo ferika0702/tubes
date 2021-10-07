@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+.daftar {
+	display: flex;
+	flex-wrap: wrap;
+}
+.gambar{
+	/*width: 80%;*/
+/*	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;*/
+	/*margin: auto;*/
+}
+.gambar.foto img{
+	height: 900px;
+	width: 1000px;
+}
+.foto{
+		height: 400px;
+		width: 270px;
+	border: 1px solid black;
+	margin: 100px;
+}
+
+.foto a{
+	border: 1px solid red;
+	padding: 10px;
+	color: white;
+	background: red;
+	text-decoration:none;
+	border-radius: 20px;
+
+	cursor: pointer;
+}
+.foto p{
+	font-size: 20px;
+	color: #fff;
+	font-weight: bolder;
+	-webkit-text-stroke:0.05em #000;
+}
